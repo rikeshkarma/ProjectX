@@ -1,4 +1,4 @@
-# sabko_bazaar
+# bazar
 
 A new Flutter project.
 
